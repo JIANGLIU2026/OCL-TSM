@@ -46,7 +46,7 @@ The **Paper** column links to the publisher page, official proceedings, or arXiv
 | 2025 | [Enhancing Real-Time Urban Drainage Network Modeling Through Crossformer Algorithm and Online Continual Learning](https://doi.org/10.1016/j.watres.2024.122614) | Water Research | — |
 | 2025 | [Proactive Model Adaptation Against Concept Drift for Online Time Series Forecasting](https://doi.org/10.1145/3690624.3709210) | KDD | [Code](https://github.com/SJTU-DMTai/OnlineTSF) |
 | 2026 | [Escaping Stability-Plasticity Dilemma in Online Continual Learning for Motion Forecasting via Synergetic Memory Rehearsal](https://doi.org/10.1109/TNNLS.2026.3700190) | IEEE TNNLS | [Code](https://github.com/BIT-Jack/SyReM) |
-| 2026 | [Online Continual Learning for Time Series: A Natural Score-Driven Approach](https://arxiv.org/abs/2601.12931) | arXiv | [Code](https://anonymous.4open.science/r/NatSR) |
+| 2026 | [Online Continual Learning for Time Series: A Natural Score-Driven Approach](https://arxiv.org/abs/2601.12931) | arXiv | — |
 
 ### Time-Series Regression
 
