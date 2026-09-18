@@ -92,10 +92,10 @@ The **Paper** column links to the publisher page, official proceedings, or arXiv
 
 Contributions are welcome. When suggesting a paper, please provide:
 
-1. the paper title and publication year;
-2. the publisher, proceedings, DOI, or arXiv link;
-3. the official code link, if available; and
-4. the most appropriate task category.
+1. The paper title and publication year;
+2. The publisher, proceedings, DOI, or arXiv link;
+3. The official code link, if available; and
+4. The most appropriate task category.
 
 Please avoid linking unofficial implementations in the **Code** column unless they are clearly labeled as third-party reproductions.
 
