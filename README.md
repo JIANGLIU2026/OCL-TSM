@@ -57,7 +57,7 @@ The **Paper** column links to the publisher page, official proceedings, or arXiv
 | 2023 | [Online Continual Learning for Control of Mobile Robots](https://doi.org/10.1109/IJCNN54540.2023.10191188) | IJCNN | [Code](https://github.com/andriyukr/unicycle/tree/main/python) |
 | 2024 | [Adaptive VIO: Deep Visual-Inertial Odometry with Online Continual Learning](https://doi.org/10.1109/CVPR52733.2024.01706) | CVPR | — |
 | 2024 | [Online Industrial Fault Prognosis in Dynamic Environments via Task-Free Continual Learning](https://doi.org/10.1016/j.neucom.2024.127930) | Neurocomputing | — |
-| 2024 | [sEMG-Driven Hand Dynamics Estimation With Incremental Online Learning on a Parallel Ultra-Low-Power Microcontroller](https://doi.org/10.1109/TBCAS.2024.3415392) | IEEE TBioCAS | [Code](https://github.com/pulp-bio/incremental_hyser) |
+| 2024 | [sEMG-Driven Hand Dynamics Estimation With Incremental Online Learning on a Parallel Ultra-Low-Power Microcontroller](https://doi.org/10.1109/TBCAS.2024.3415392) | IEEE TBCAS | [Code](https://github.com/pulp-bio/incremental_hyser) |
 
 ### Time-Series Classification
 
