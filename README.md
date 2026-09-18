@@ -35,7 +35,7 @@ The repository focuses on studies that learn from temporally ordered, non-statio
 
 The **Paper** column links to the publisher page, official proceedings, or arXiv record. The **Code** column links only to an author-provided project or repository identified from the paper or its official record. “—” means that no official public implementation was identified.
 
-### Temporal Forecasting
+### Time-Series Forecasting
 
 | Year | Paper | Venue | Code |
 | :---: | --- | --- | :---: |
@@ -48,7 +48,7 @@ The **Paper** column links to the publisher page, official proceedings, or arXiv
 | 2026 | [Escaping Stability-Plasticity Dilemma in Online Continual Learning for Motion Forecasting via Synergetic Memory Rehearsal](https://doi.org/10.1109/TNNLS.2026.3700190) | IEEE TNNLS | [Code](https://github.com/BIT-Jack/SyReM) |
 | 2026 | [Online Continual Learning for Time Series: A Natural Score-Driven Approach](https://arxiv.org/abs/2601.12931) | arXiv | [Code](https://anonymous.4open.science/r/NatSR) |
 
-### Temporal Regression
+### Time-Series Regression
 
 | Year | Paper | Venue | Code |
 | :---: | --- | --- | :---: |
@@ -59,7 +59,7 @@ The **Paper** column links to the publisher page, official proceedings, or arXiv
 | 2024 | [Online Industrial Fault Prognosis in Dynamic Environments via Task-Free Continual Learning](https://doi.org/10.1016/j.neucom.2024.127930) | Neurocomputing | — |
 | 2024 | [sEMG-Driven Hand Dynamics Estimation With Incremental Online Learning on a Parallel Ultra-Low-Power Microcontroller](https://doi.org/10.1109/TBCAS.2024.3415392) | IEEE TBioCAS | [Code](https://github.com/pulp-bio/incremental_hyser) |
 
-### Temporal Classification
+### Time-Series Classification
 
 | Year | Paper | Venue | Code |
 | :---: | --- | --- | :---: |
